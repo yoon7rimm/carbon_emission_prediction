@@ -2,6 +2,9 @@ streamlit
 pandas
 numpy
 scikit-learn
-ploty
+plotly
 matplotlib
+seaborn
 shap
+joblib
+openpyxl
